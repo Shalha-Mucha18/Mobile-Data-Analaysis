@@ -10,6 +10,8 @@ The mobile data used in this project was collected online.
 ## Usage
 - Run the SQL scripts to populate the database with mobile data.
 - Open the Power BI file to explore the visualizations and gain insights from the data.
+
+  
 ![Screenshot 2024-04-30 212437](https://github.com/Shalha-Mucha18/Mobile-Data-Analysis/assets/93482050/1480a7f1-20f7-423a-9caf-fd83744b8514)
 
 
